@@ -14,3 +14,8 @@ A modified **Windows Media Player** skin (`MediaPlayer_Restored.vlt`) for **VLC 
 ## Preview
 
 <img width="2560" height="1600" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/00425b83-4d21-4b80-bedd-150f0fe11edb" />
+
+
+## Credits
+* **Original Skin (`MediaPlayer 1.01`):** Created by **Asim Siddiqui** ([xtremestuff.net](http://www.xtremestuff.net)) — available on the [VideoLAN Skins Library](https://videolan.org).
+* **HiDPI / Font Scaling Modification:** Modified for improved text readability on modern high-resolution Windows 11 displays.
