@@ -9,3 +9,8 @@ A modified **Windows Media Player** skin (`MediaPlayer_Restored.vlt`) for **VLC 
 4. Under the **Interface** tab, select **Use custom skin**.
 5. Click **Choose...** and select **`MediaPlayer_Restored.vlt`**.
 6. Click **Save**, then close and reopen VLC.
+
+
+## Preview
+
+<img width="2560" height="1600" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/00425b83-4d21-4b80-bedd-150f0fe11edb" />
